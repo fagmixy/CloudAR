@@ -1,8 +1,8 @@
 {
-    "name": "arab",
+    "name": "CloudAR",
     "description": "Updating the Cloudstream Arabic Provider. Feel free to join the Cloudstream Discord server for the latest information.",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://codeberg.org/fagmixy/arab/raw/main/plugins.json"
+      "https://codeberg.org/fagmixy/CloudAR/raw/main/plugins.json"
     ]
   }
