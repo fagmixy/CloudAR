@@ -19,7 +19,7 @@ var template = `
     </div>
 </div>`
 var allList = []
-$.getJSON( "https://raw.githubusercontent.com/recloudstream/cs-repos/master/repos-db.json",
+$.getJSON( "https://raw.githubusercontent.com/fagmixy/CloudAR/master/repos-db.json",
 function( data ) {
     data.forEach(repoUrl => {
         $.getJSON( repoUrl,
